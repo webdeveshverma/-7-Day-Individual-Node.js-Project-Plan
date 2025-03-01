@@ -1,4 +1,4 @@
-# -7-Day-Individual-Node.js-Project-Plan
+# 7-Day-Individual-Node.js-Project-Plan
 1️⃣ User Authentication System –  Google OAuth, allowing users to register, login securely, and protect routes with middleware.
 
 2️⃣ To-Do App API – A simple RESTful API to create, read, update, and delete tasks using Node.js, Express.js, and MongoDB, tested with Postman.
